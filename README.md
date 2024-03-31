@@ -1,1 +1,9 @@
-# the-study-guide
+# STUDY GUIDE (Work in progress)
+
+##  (WHY?)
+
+## Target Users
+
+## MVP
+
+## 

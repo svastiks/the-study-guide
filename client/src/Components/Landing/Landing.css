@@ -1,0 +1,22 @@
+body{
+    background-color: lightblue;
+  } 
+
+.container{
+    display: flex;
+    justify-content: center;
+    padding-top: 125px;
+}
+
+.container input{
+    border: 1px solid hsla(0, 0%, 100%, .05);
+    background-color: rgba(30,41,59,.75);
+    color: #fff;
+    height: 5vh;
+    width: 35vh;
+    border-radius: 5px;
+}
+
+.container input::placeholder{
+    color: #fff;
+}
